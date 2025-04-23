@@ -18,17 +18,7 @@ export function Overview() {
                     <TextContent>
                         <Box variant="p">
                             @askai is a HIPAA-eligible service that automatically generate clinical notes by analyzing
-                            patient-clinician conversations.
-                            <img
-                                src="/askai.png"
-                                alt="Description détaillée de l'image pour l'accessibilité"
-                                style={{
-                                maxWidth: "20%",
-                                borderRadius: "4px",
-                                // Utilisez les variables de couleur Cloudscape pour les bordures si nécessaire
-                                border: "1px solid var(--color-border-container-default)"
-                                }}
-                            />
+                            patient-clinician conversations.                            
                         </Box>
                     </TextContent>
                 </SpaceBetween>
