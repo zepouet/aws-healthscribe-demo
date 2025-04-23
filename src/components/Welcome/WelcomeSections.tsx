@@ -16,7 +16,7 @@ export function Overview() {
             <Container>
                 <SpaceBetween size={'xs'}>
                     <TextContent>
-                        <Box variant="s">
+                        <Box variant="p">
                             AWS HealthScribe is a HIPAA-eligible service empowering healthcare software vendors to build
                             clinical applications that automatically generate clinical notes by analyzing
                             patient-clinician conversations.
