@@ -26,9 +26,7 @@ function Welcome() {
                 <SpaceBetween size={'l'}>
                     {!isUserAuthenticated && <Alert type="info">Log in for full functionality.</Alert>}
                     <Overview />
-                    <Highlights />
-                    <Details />
-                    <Footer />
+                    <Highlights />                    
                 </SpaceBetween>
             </main>
         </ContentLayout>

@@ -47,9 +47,9 @@ export default function WelcomeHeader() {
             >
                 <SpaceBetween size="xl">
                     <Box fontSize="display-l" fontWeight="bold">
-                        Demo Application Experience
+                        Askai Medical Reports
                     </Box>
-                    <Box fontSize="display-l">Powered by AWS HealthScribe</Box>
+                    <Box fontSize="display-l">Powered by Olea Medical</Box>
                 </SpaceBetween>
 
                 <div>

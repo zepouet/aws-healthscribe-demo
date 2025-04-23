@@ -23,6 +23,16 @@ export function Overview() {
                             AWS HealthScribe is a HIPAA-eligible service empowering healthcare software vendors to build
                             clinical applications that automatically generate clinical notes by analyzing
                             patient-clinician conversations.
+                            <img
+                                src="/askai.png"
+                                alt="Description détaillée de l'image pour l'accessibilité"
+                                style={{
+                                maxWidth: "100%",
+                                borderRadius: "4px",
+                                // Utilisez les variables de couleur Cloudscape pour les bordures si nécessaire
+                                border: "1px solid var(--color-border-container-default)"
+                                }}
+                            />
                         </Box>
                     </TextContent>
                 </SpaceBetween>
