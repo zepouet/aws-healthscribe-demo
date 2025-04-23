@@ -14,12 +14,9 @@ export function Overview() {
         <SpaceBetween size={'s'}>
             <Header variant="h2">Overview</Header>
             <Container>
-                <SpaceBetween size={'s'}>
+                <SpaceBetween size={'xs'}>
                     <TextContent>
-                        <Box variant="p">
-                            This sample React based web app shows the art of the possible in using AWS HealthScribe.
-                        </Box>
-                        <Box variant="p">
+                        <Box variant="s">
                             AWS HealthScribe is a HIPAA-eligible service empowering healthcare software vendors to build
                             clinical applications that automatically generate clinical notes by analyzing
                             patient-clinician conversations.
@@ -27,7 +24,7 @@ export function Overview() {
                                 src="/askai.png"
                                 alt="Description détaillée de l'image pour l'accessibilité"
                                 style={{
-                                maxWidth: "100%",
+                                maxWidth: "40%",
                                 borderRadius: "4px",
                                 // Utilisez les variables de couleur Cloudscape pour les bordures si nécessaire
                                 border: "1px solid var(--color-border-container-default)"
