@@ -37,20 +37,20 @@ export default function SideNav() {
         { type: 'divider' },
         {
             type: 'link',
-            text: 'AWS HealthScribe',
-            href: 'https://aws.amazon.com/healthscribe',
+            text: 'Askai HealthScribe',
+            href: 'https://www.olea-medical.com',
             external: true,
         },
         {
             type: 'link',
             text: 'AWS for Health',
-            href: 'https://aws.amazon.com/health',
+            href: 'https://www.olea-medical.com',
             external: true,
         },
         {
             type: 'link',
-            text: 'Amazon Web Services',
-            href: 'https://aws.amazon.com',
+            text: 'Askai Medical Reports',
+            href: 'https://www.olea-medical.com',
             external: true,
         },
     ];
