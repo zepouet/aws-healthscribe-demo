@@ -49,7 +49,7 @@ export default function WelcomeHeader() {
                     <Box fontSize="display-l" fontWeight="bold">
                         Askai Medical Reports
                     </Box>
-                    <Box fontSize="display-l">Powered by Olea Medical</Box>
+                    <Box fontSize="display-l">Powered by Olympic Corp</Box>
                 </SpaceBetween>
 
                 <div>
